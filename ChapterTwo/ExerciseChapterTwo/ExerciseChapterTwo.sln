@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DifficultQuotations", "..\DifficultQuotations\DifficultQuotations\DifficultQuotations.csproj", "{5214F2F4-C754-4126-B6AE-DB8DB2569463}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeData", "..\EmployeeData\EmployeeData\EmployeeData.csproj", "{1864D5B9-9D7D-4488-AF16-3ADDE7D4554D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenderValidation", "..\GenderValidation\GenderValidation\GenderValidation.csproj", "{0CBCA07E-D627-44FF-94AD-879A521285CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5214F2F4-C754-4126-B6AE-DB8DB2569463}.Debug|x86.ActiveCfg = Debug|x86
+		{5214F2F4-C754-4126-B6AE-DB8DB2569463}.Debug|x86.Build.0 = Debug|x86
+		{5214F2F4-C754-4126-B6AE-DB8DB2569463}.Release|x86.ActiveCfg = Release|x86
+		{5214F2F4-C754-4126-B6AE-DB8DB2569463}.Release|x86.Build.0 = Release|x86
+		{1864D5B9-9D7D-4488-AF16-3ADDE7D4554D}.Debug|x86.ActiveCfg = Debug|x86
+		{1864D5B9-9D7D-4488-AF16-3ADDE7D4554D}.Debug|x86.Build.0 = Debug|x86
+		{1864D5B9-9D7D-4488-AF16-3ADDE7D4554D}.Release|x86.ActiveCfg = Release|x86
+		{1864D5B9-9D7D-4488-AF16-3ADDE7D4554D}.Release|x86.Build.0 = Release|x86
+		{0CBCA07E-D627-44FF-94AD-879A521285CA}.Debug|x86.ActiveCfg = Debug|x86
+		{0CBCA07E-D627-44FF-94AD-879A521285CA}.Debug|x86.Build.0 = Debug|x86
+		{0CBCA07E-D627-44FF-94AD-879A521285CA}.Release|x86.ActiveCfg = Release|x86
+		{0CBCA07E-D627-44FF-94AD-879A521285CA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAAF7BEB-7011-4D3A-92C6-8D421C8CD960}
+	EndGlobalSection
+EndGlobal
